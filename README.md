@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development With MERN Specialization .**
 
-- 📫 How to reach me **g.venkateswarlu1997@gmail.com**
+- 📫 How to reach me **icavenkat.g@gmail.com**
 
 
 ## 👨‍💻 Connect with me 
