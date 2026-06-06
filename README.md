@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkat</h1>
+<h1 align="left">Hi 👋, I'm Venkat</h1>
 <h3 align="center">I am a aspiring MERN Stack Developer.</h3>
 <br>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
